@@ -4,3 +4,5 @@
 .terraform.lock.hclgit init
 .terraform-user_credentials.csv
 terraform-user_credentials.csv
+terraform.exe
+.terraform/
